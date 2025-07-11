@@ -9,7 +9,7 @@ It's a foundational setup to demonstrate Git workflows and project organization.
 - `privacy-policy.html` – Privacy policy page  
 - Other project files...
 
-## 🚀 Getting Started
+## 🚀 Getting Started10
 
 To clone this repository:
 
